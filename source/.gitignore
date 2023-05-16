@@ -1,0 +1,60 @@
+# Cocos2d-x
+/cmake-build-debug/
+/cmake-build-release/
+/proj.android-studio/
+/proj.android/
+/proj.ios_mac/
+/proj.linux/
+/proj.win10/
+/proj.win32/
+/proj.wp8-xaml/
+/proj.wp8/
+/proj.blackberry/
+/proj.tizen/
+/external/
+/tools/
+/bin/
+/mac-build/
+
+# CMake generated files
+/CMakeCache.txt
+/CMakeFiles/
+/CMakeScripts/
+/Makefile
+/cmake_install.cmake
+/install_manifest.txt
+/CMakeLists.txt.user
+
+# Xcode generated files
+/*.pbxuser
+/*.mode1v3
+/*.mode2v3
+/*.perspectivev3
+/*.xcworkspace
+/*.xcuserstate
+/xcuserdata/
+
+# Visual Studio generated files
+/*.sln
+/*.suo
+/*.vcxproj
+/*.vcxproj.filters
+/*.vcxproj.user
+/*.vcproj
+/*.vcproj.*
+/*.sdf
+/*.opensdf
+/*.sln.docstates
+
+# macOS generated files
+.DS_Store
+
+# Android generated files
+/local.properties
+
+# iOS generated files
+/build/
+
+# Other
+/.idea/
+/.vscode/
